@@ -1,105 +1,109 @@
-[Professional_README.md](https://github.com/user-attachments/files/23412625/Professional_README.md)
+[Creative_Professional_README.md](https://github.com/user-attachments/files/23416342/Creative_Professional_README.md)
+
 <div align="center">
-  
-# 👋 Hi, I'm **Arepally Siddhartha**  
-🎓 Computer Science & Engineering | 💡 Aspiring Data Analyst  
+
+# 👋 Hey there! I'm **Arepally Siddhartha**  
+🎓 **CSE Graduate** | 📊 **Aspiring Data Analyst** | 💡 **Tech Enthusiast**  
 📍 Hyderabad, India  
-📧 [arepallisiddharthasiddhu@gmail.com](mailto:arepallisiddharthasiddhu@gmail.com) • 🔗 [LinkedIn](https://www.linkedin.com/in/arepallysiddhartha/) • 💻 [GitHub](https://github.com/Siddharthaa20)
+
+📧 [arepallisiddharthasiddhu@gmail.com](mailto:arepallisiddharthasiddhu@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/arepallysiddhartha/) • 💻 [GitHub](https://github.com/Siddharthaa20)
+
+---
 
 </div>
 
----
-
-## 🧭 About Me
-
-I'm an **analytical and detail-oriented Computer Science graduate** passionate about turning raw data into meaningful insights.  
-I enjoy exploring data, identifying patterns, and creating visualizations that support smarter decision-making.  
-Currently seeking opportunities in **Data Analytics, Business Intelligence, and Data Engineering**.
+## 🧭 About Me  
+🚀 Passionate about **transforming raw data into actionable insights** and crafting data-driven stories.  
+💬 I love working with **data visualization tools, analytics pipelines**, and **predictive models** to uncover trends that matter.  
+🌱 Currently exploring **Business Intelligence** and **Data Engineering** fields.  
+🎯 Goal: To contribute to impactful projects that make data more meaningful and accessible.
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills  
 
-**Data Analysis & Management:**  
-Data Collection • Cleaning • Transformation • Database Management  
+### 🧩 **Data Analysis & Management**
+📘 Data Cleaning • 🧹 Transformation • 🗃️ Database Design • 🧮 Statistical Analysis  
 
-**Visualization & Reporting:**  
-Power BI • Tableau • Google Data Studio • Excel (PivotTables, Power Query)  
+### 📊 **Visualization & Reporting**
+🖥️ Power BI • 📈 Tableau • 📉 Excel (Pivot Tables, Power Query) • 📊 Google Data Studio  
 
-**Programming & Tools:**  
-Python (Pandas, NumPy) • SQL • Statistical Analysis  
+### 💻 **Programming & Tools**
+🐍 Python (Pandas, NumPy, Matplotlib) • 🧠 SQL • 📊 Advanced Excel  
 
-**Soft Skills:**  
-Stakeholder Communication • Team Collaboration • Attention to Detail  
+### 🤝 **Soft Skills**
+💬 Communication • 👥 Collaboration • 🔍 Attention to Detail • 🧠 Problem Solving  
 
 ---
 
-## 🎓 Education
+## 🎓 Education  
 
-**Bachelor of Technology – Computer Science and Engineering**  
+🎓 **Bachelor of Technology – Computer Science & Engineering**  
 Jyothishmathi Institute of Technology and Science (2021 – 2025)  
-📊 CGPA: 6.7  
+📊 **CGPA:** 6.7  
 
-**Intermediate Education – MPC**  
+🏫 **Intermediate – MPC**  
 Sree Chaitanya Junior College (2019 – 2021)  
-📈 Percentage: 91.6%
+📈 **Percentage:** 91.6%  
 
 ---
 
-## 💼 Experience
+## 💼 Experience  
 
-**Junior Analyst Intern – Vangrove Tech Pvt. Ltd.**  
-📅 Sep 2025 – Dec 2025 | Hyderabad, India  
-- Assisted in data collection, cleaning, and analysis using **Excel, SQL, and Power BI**.  
-- Built dashboards and analytical reports to support data-driven decisions.  
-- Collaborated with senior analysts to identify key business insights.  
+### 🧮 **Junior Analyst Intern – Vangrove Tech Pvt. Ltd.**  
+📅 *Sep 2025 – Dec 2025 | Hyderabad, India*  
+- Analyzed and cleaned datasets using **Excel, SQL, and Power BI**.  
+- Designed dashboards to visualize KPIs for better decision-making.  
+- Collaborated with teams to identify performance metrics and insights.  
 
-**Python Programming Intern – CSEdge**  
-📅 1-Month Internship  
-- Strengthened hands-on programming knowledge in **Python** with excellent mentor feedback.  
-
----
-
-## 🏅 Certifications
-
-- **Virtual Data Analytics Internship – Deloitte Australia (Forage)**  
-  Built Tableau dashboards using business KPIs and analyzed datasets in Excel.  
-
-- **Tata Group Data Analytics Job Simulation – Forage (Aug 2025)**  
-  Conducted AI-powered exploratory data analysis and identified delinquency risk indicators.  
+### 🐍 **Python Programming Intern – CSEdge**  
+📅 *1-Month Internship*  
+- Strengthened programming foundations in **Python** through hands-on tasks.  
+- Received positive mentor feedback for consistent performance.  
 
 ---
 
-## 📊 Projects
+## 🏅 Certifications  
 
-**Netflix Content Analysis**  
-- Analyzed 200+ Netflix titles, cleaned metadata, and categorized content by genre and type.  
-- Proposed data quality improvements and structured findings for presentation.  
+- 🧠 **Virtual Data Analytics Internship – Deloitte Australia (Forage)**  
+  Built Tableau dashboards with business KPIs and analyzed Excel datasets.  
 
-**Flipkart E-Commerce Data Analysis**  
-- Cleaned and transformed Flipkart datasets using **Python (Pandas, NumPy)** and **SQL**.  
-- Developed **Power BI dashboards** for visualizing sales trends and brand performance.  
-- Designed efficient data models for filtering, drill-down, and KPI tracking.  
+- 💼 **Tata Group Data Analytics Simulation – Forage (Aug 2025)**  
+  Conducted AI-powered EDA to identify key financial and operational trends.  
 
 ---
 
-## ⚙️ Tools & Technologies
-`Python` • `Pandas` • `NumPy` • `SQL` • `Tableau` • `Power BI` • `Excel` • `Google Data Studio`
+## 📈 Projects  
+
+### 🎬 **Netflix Content Analysis**
+- Cleaned and explored 200+ Netflix titles to analyze genre, rating, and country patterns.  
+- Presented data-driven recommendations and visualization insights.  
+
+### 🛒 **Flipkart E-Commerce Data Analysis**
+- Processed large Flipkart datasets using **Python (Pandas, NumPy)** and **SQL**.  
+- Developed **Power BI dashboards** to track sales, revenue, and brand trends.  
+- Enhanced data modeling for interactivity and drill-down analytics.  
 
 ---
 
-## 📈 GitHub Stats
+## ⚙️ Tools & Technologies  
+`Python` • `Pandas` • `NumPy` • `SQL` • `Tableau` • `Power BI` • `Excel` • `Google Data Studio` • `Git`
+
+---
+
+## 🌟 GitHub Stats  
 
 <div align="center">
-  
-![Siddharthaa20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharthaa20&show_icons=true&theme=default&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthaa20&layout=compact&theme=default&hide_border=true)
+
+![Siddharthaa20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siddharthaa20&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharthaa20&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect  
 
 📫 **Email:** [arepallisiddharthasiddhu@gmail.com](mailto:arepallisiddharthasiddhu@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/arepallysiddhartha](https://www.linkedin.com/in/arepallysiddhartha/)  
@@ -108,7 +112,7 @@ Sree Chaitanya Junior College (2019 – 2021)
 ---
 
 <div align="center">
-  
-⭐️ *“Turning data into insights that drive meaningful change.”* ⭐️  
+
+✨ *"Data tells stories — I translate them into insights."* ✨  
 
 </div>
