@@ -77,6 +77,18 @@
 
 ---
 
+### 📊 Customer Churn & Revenue Analytics Dashboard
+**🚀 End-to-End Analytics | Power BI • Python • SQL**
+
+- Analyzed **customer churn behavior** and **revenue impact**
+- Identified **high-risk customers** and key churn drivers
+- Built interactive **Power BI dashboards** with business KPIs using **DAX**
+- Provided insights to support **customer retention strategies**
+
+🔗 **Repository**  
+👉 https://github.com/Siddharthaa20/Customer-Churn-Analytics
+
+
 ## 📜 Certifications
 
 🏅 **Deloitte Australia – Data Analytics Virtual Internship**  
